@@ -1,0 +1,4 @@
+public Dept(long deptno ,String dname ,String loc) {
+     this.deptno = deptno ;
+     this.dname = dname ;
+     this.loc = loc ;
