@@ -1,0 +1,8 @@
+}
+public void setDeptno(long deptno) {
+    this.deptno = deptno ;
+}
+public void setDname (String dname) {
+    this.dname = dname ;
+}
+public void setLoc (String loc) {
