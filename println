@@ -1,0 +1,8 @@
+      Person perA = new Person(“xx” ,10) ;
+      Person perB = new Person(“xx” ,10) ;
+      Person perC = new Person(“xx” ,11) ;
+      System.out.println(perA.getInfo()) ;
+      System.out.println(perB.getInfo()) ;
+      System.out.println(perC.getInfo()) ;
+    }
+}
