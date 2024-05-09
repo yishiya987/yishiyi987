@@ -1,0 +1,6 @@
+class person {             //xxx
+    private String name ;
+    private int age ;
+    String country = “xxx” ;     //xxx
+    public Person(String name ,int age ){
+        this.name = name ;
