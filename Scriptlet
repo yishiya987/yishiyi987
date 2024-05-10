@@ -1,0 +1,4 @@
+<%
+    String userName = "User";
+    out.println("Hello, " + userName);
+%>
