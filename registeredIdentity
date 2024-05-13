@@ -1,0 +1,6 @@
+def registeredIdentity(libpath):
+    known_face_encodings, known_face_names = [], []
+    with open(libpath + 'liblist.txt', 'r') as f:
+        lines = f.readlines()
+    for line in lines:
+        img_lable_name = line.split()
