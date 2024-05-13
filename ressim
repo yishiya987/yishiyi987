@@ -1,0 +1,9 @@
+def compare_faces(x,y,Threshold):
+    ressim = []
+    match = [False]*len(x)
+    for fet in x:
+        sim = simcos(fet,y)
+        ressim.append(sim)
+    if max(ressim) > Threshold:  #
+        match[ressim.index(max(ressim))] = True
+    return match,max(ressim)
