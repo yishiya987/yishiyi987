@@ -1,0 +1,9 @@
+{
+	int x;
+	int y;
+	struct Node *pnext;
+}NODE;
+ 
+#define WINDOW_WIDTH 1024
+#define WINDOW_HEIGHT 680
+#define WIDTH 480
