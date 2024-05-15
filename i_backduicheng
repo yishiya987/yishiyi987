@@ -1,0 +1,5 @@
+DWORD b1, b2, b3, b4, b5, b6;
+ 
+IMAGE i_MP,i_MPS,i_AP,i_APS;
+IMAGE i_backeve, i_backxing, i_backduicheng, i_backguan,i_backcontrol,i_backgo;
+IMAGE i_boss1_1, i_boss1_1S, i_boss1_2, i_boss1_2S;
