@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+#include<graphics.h>
+#include<conio.h>
+#include<time.h>
+#include<mmsystem.h>
+#pragma comment(lib,"winmm.lib")
+ 
+ 
+ 
+ 
+typedef struct Node
