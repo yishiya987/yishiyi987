@@ -1,0 +1,10 @@
+{
+	snake *current = s;
+
+	while (current)
+	{
+		current = s;
+		s = current->next;
+		free(current);
+	}
+}
